@@ -1,0 +1,1 @@
+Exercises and examples from the book __Node.js the Right Way__ by Jim R. Wilson
