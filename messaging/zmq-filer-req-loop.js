@@ -11,7 +11,7 @@ requester.on("message", function(data) {
 requester.connect("tcp://localhost:5433");
 // send request for content
 for (let i=1; i<=3; i++) {
-	console.log('Sending request for ' + filename);
+	console.log('Sending request ' + i + ' for ' + filename);
 	requester.send(JSON.stringify({
 		path: filename
 	}));
