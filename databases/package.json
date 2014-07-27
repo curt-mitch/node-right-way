@@ -1,0 +1,9 @@
+{
+  "name": "book-tools",
+  "version": "0.1.0",
+  "description": "Tools for reating an ebook database.",
+  "author": "Curtis Mitchell <curtis.l.mitchell@gmail.com>",
+  "dependencies": {
+    "request": "^2.39.0"
+  }
+}
