@@ -4,6 +4,7 @@
   "description": "Tools for reating an ebook database.",
   "author": "Curtis Mitchell <curtis.l.mitchell@gmail.com>",
   "dependencies": {
-    "request": "^2.39.0"
+    "request": "^2.39.0",
+    "cheerio": "^0.17.0"
   }
 }
