@@ -5,6 +5,7 @@
   "author": "Curtis Mitchell <curtis.l.mitchell@gmail.com>",
   "dependencies": {
     "request": "^2.39.0",
-    "cheerio": "^0.17.0"
+    "cheerio": "^0.17.0",
+    "file": "^0.2.2"
   }
 }
