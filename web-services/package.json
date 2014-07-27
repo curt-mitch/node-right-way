@@ -1,0 +1,9 @@
+{
+  "name": "hello",
+  "version": "0.1.0",
+  "description": "Hello World Express example.",
+  "author": "Curtis Mitchell <curtis.l.mitchell@gmail.com>",
+  "dependencies": {
+    "express": "^4.7.2"
+  }
+}
